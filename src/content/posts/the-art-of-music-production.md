@@ -1,10 +1,11 @@
 ---
-author: dwight-schrute
-categories: ['career advice']
+author: michael-scott
+categories: ['latest', 'insights']
 date: 08/10/2021
-featured: false
-image: /images/gear.jpg
-title: Gear is insanely expensive
+featured: true
+image: /images/producer.jpg
+title: The art of music production
+url: the-art-of-music-production
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
