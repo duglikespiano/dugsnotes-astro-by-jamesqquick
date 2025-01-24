@@ -15,7 +15,7 @@
 
 - Project title : dugsnotes_astro_by_jamesqquick
 - Related URL : https://youtu.be/e-hTm5VmofI?si=vc6EL3XSwN2XuHjp
-- Period : Jan 14 2025 - In Progress
+- Period : Jan 14 2025 - Jan 24 2025
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">

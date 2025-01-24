@@ -15,7 +15,7 @@
 
 - Project タイトル : dugsnotes_astro_by_jamesqquick
 - 関連 URL : https://youtu.be/e-hTm5VmofI?si=vc6EL3XSwN2XuHjp
-- 期間 : 2025.01.14 - 進行中
+- 期間 : 2025.01.14 - 2025.01.24
 - 人員 : 1 人
 - 技術スタック : </br>
   <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
